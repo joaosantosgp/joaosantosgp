@@ -30,7 +30,7 @@ My plans for the future include continuing to deepen my knowledge of Python, Dja
 <p align="left"></p>
 
 ###
-
+<br>
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -104,6 +104,7 @@ My plans for the future include continuing to deepen my knowledge of Python, Dja
 </div>
 
 ###
+<br>
 <h3 align="left">🔥   My Stats :</h3>
 
 ###

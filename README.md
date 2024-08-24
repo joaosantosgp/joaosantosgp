@@ -109,11 +109,7 @@ My plans for the future include continuing to deepen my knowledge of Python, Dja
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=joaosantosgp&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=joaosantosgp&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/joaosantosgp/joaosantosgp/output/snake.svg" alt="Snake animation" />
 
 ###

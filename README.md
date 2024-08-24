@@ -1,7 +1,3 @@
-###
-
-<br clear="both">
-
 <h2 align="left">Hello 👋</h2>
 
 ###
@@ -77,6 +73,7 @@ My plans for the future include continuing to deepen my knowledge of Python, Dja
 </div>
 
 ###
+<br>
 <h3 align="left">⚡ Learning</h3>
 
 <div>
@@ -117,8 +114,6 @@ My plans for the future include continuing to deepen my knowledge of Python, Dja
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaosantosgp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="230" alt="stats graph"  />
-</div>
+<img src="https://raw.githubusercontent.com/joaosantosgp/joaosantosgp/output/snake.svg" alt="Snake animation" />
 
 ###

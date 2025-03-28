@@ -100,8 +100,4 @@ My plans for the future include continuing to deepen my knowledge of Python, Dja
 </div>
 
 ###
-<br>
-<h3 align="left">🔥   My Stats :</h3>
-
-###
 

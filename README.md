@@ -18,6 +18,7 @@ My plans for the future include continuing to deepen my knowledge of Python, Dja
   <a href="https://www.linkedin.com/in/joao-victor-santos-gris-petinelli-4289891b0/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
+  <br>
   <a href="mailto:joaovictor.petinelli@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>

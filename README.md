@@ -71,34 +71,6 @@ My plans for the future include continuing to deepen my knowledge of Python, Dja
 
 ###
 <br>
-<h3 align="left">⚡ Learning</h3>
-
-<div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
-    <img width="10" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
-    <img width="10" />
-    <img src="https://img.icons8.com/?size=100&id=71257&format=png&color=000000" height="35" alt="Angular logo"  />
-    <img width="10" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-line.svg" height="35" alt="Next logo"  />
-    <img width="10" />
-    <img src="https://img.icons8.com/?size=100&id=BUnExfsRs3CW&format=png&color=000000" height="35" alt="Vue logo"  />
-    <img width="10" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" height="40" alt="express logo"  />
-    <img width="10" />
-    <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" height="40" alt="node logo"  />
-    <img width="10" /> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" height="35" alt="jquery logo"  />
-    <img width="10" /> 
-    <img src="https://img.icons8.com/?size=100&id=sOWbK4N3cxGh&format=png&color=000000" height="35" alt="webpack logo"  />
-    <img width="10" /> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gulp/gulp-plain.svg" height="35" alt="gulp logo"  />
-    <img width="10" /> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="35" alt="docker logo"  />
-    <img width="10" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" height="35" alt="docker logo"  />
-    <img width="10" />                   
-</div>
 
 ###
 

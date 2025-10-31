@@ -18,7 +18,7 @@ Atualmente, me especializo no **desenvolvimento backend** com **Django** e **Dja
 
 ### 🚀 Current Focus / Foco Atual
 
-- 📚 Deepening my knowledge in **Python**, **Django**, and **DRF**  
+- 📚 Deepening my knowledge in **Python**, **Django**, **DRF**, **Flask**, **Pandas**, **Numpy**, **Streamlit**, **OpenCV**, among others.  
 - 🌱 Improving my **JavaScript** skills to build dynamic and interactive frontends  
 - ⚛️ Exploring frameworks like **React**, **Angular**, and **Vue**  
 - 💡 Building **full-stack applications** combining intuitive interfaces with solid backends  

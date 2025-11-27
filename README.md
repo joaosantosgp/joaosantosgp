@@ -21,7 +21,7 @@ Atualmente, me especializo no **desenvolvimento backend** com **Django** e **Dja
 - 📚 Aprofundando meu conhecimento em **Python**, **Django**, **DRF**, **Flask**, **Pandas**, **Numpy**, **Streamlit**, **OpenCV**, among others.  
 - 🌱 Melhorando meu **JavaScript** habilidades para construir interfaces dinâmicas e interativas.  
 - ⚛️ Explorando frameworks como **React**, **Angular**, and **Vue**  
-- 💡 Desenvolvendo aplicações **full-stack robustas**, unindo interfaces intuitivas e centradas no usuário a backends escaláveis e de alto desempenho.  
+- 💡 Desenvolvendo aplicações **full-stack** com interfaces intuitivas e backends de alto desempenho. 
 
 > 💬 I believe that programming is a continuous journey — learning, experimenting, and improving every day.  
 >  
